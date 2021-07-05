@@ -33,3 +33,19 @@ section{
     background-size: 100%;
     border-radius: 15px;
 }
+.tips-portion{ text-align: center;
+        margin: auto;
+        width: 50%;
+        border: 3px solid rgb(4, 82, 199);
+        padding: 10px;
+        border-radius: 15px;
+        box-shadow: 10px 10px 10px gray;
+}
+img{
+    border-radius: 15px;
+}
+.contain-box{
+    box-shadow: 10px 10px 10px gray;
+    text-align: left;
+    border-radius: 20px;
+}
