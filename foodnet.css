@@ -1,12 +1,15 @@
 body{
     font-family: 'Source Code Pro', monospace;
 }
+h1{
+    font-size: 30px;
+}
 .orange-color{
     color: orange;
 }
 section{
     display: flex;
-    padding-bottom: 10px;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -23,5 +26,10 @@ section{
     color: whitesmoke;
     font-weight: 600;
     padding: 10px 10px;
-    border-radius: 5px;
+    border-radius: 15px;
+}
+.middle-portion{
+    background-image: url(images/Frame\ 56.jpg);
+    background-size: 100%;
+    border-radius: 15px;
 }
