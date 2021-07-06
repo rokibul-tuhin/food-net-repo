@@ -1,0 +1,99 @@
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+ul{
+    list-style: none;
+    margin-left: 5px;
+    padding-left: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navigation a{
+    display: inline-block;
+    padding: 10px;
+    background: cadetblue;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+    border-radius: 5px;
+    color: white;
+}
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.order-button{
+    text-decoration: none;
+    background-color: #6875e9;
+    background-image: linear-gradient(315deg, #6a93cb 0%, #a4bfef 74%);
+    color: whitesmoke;
+    font-weight: 600;
+    padding: 10px 10px;
+    border-radius: 15px;
+}
+.middle-portion{
+    background-image: url(images/Frame\ 56.jpg);
+    background-size: 100%;
+    border-radius: 15px;
+}
+.tips-portion{ text-align: center;
+        margin: auto;
+        width: 50%;
+        border: 3px solid rgb(4, 82, 199);
+        padding: 10px;
+        border-radius: 15px;
+        box-shadow: 10px 10px 10px gray;
+}
+
+.contain-box{
+    box-shadow: 10px 10px 10px gray;
+    text-align: left;
+    border-radius: 20px;
+    padding-left: 5%; 
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: 2%;
+}
+.next {
+    text-decoration: none;
+    background-color: #6875e9;
+    background-image: linear-gradient(315deg, #6a93cb 0%, #a4bfef 74%);
+    color: whitesmoke;
+    font-weight: 600;
+    padding: 10px 10px;
+    border-radius: 40px;
+}
+.menu{
+    border-radius: 50px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: whitesmoke ;
+    border-radius: 10px;
+    padding-bottom: 60px;
+    padding-top: 10px;
+}
+.statistic{
+        text-align: center;
+        margin: auto;
+        width: 50%;
+        border: 3px inset rgb(4, 82, 199);
+        padding-bottom: 10px;
+        border-radius: 15px;
+        box-shadow: 10px 10px 10px gray;
+}
